@@ -4,7 +4,7 @@
 Are all numbers of the form 
 $$2^{2^{2^{2^{{\cdot}^{{\cdot}^{\cdot}}}}}}...+3^{3^{3^{3^{{\cdot}^{{\cdot}^{\cdot}}}}}}$$ 
 primes? 
-<br/> 
+<p/> 
 Since 
 $$2+3=5,$$ 
 $$2^{2}+3^{3}=31,$$ 
