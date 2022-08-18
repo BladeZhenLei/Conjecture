@@ -11,6 +11,6 @@ $$p_2=2^{2}+3^{3}=31,$$
 $$p_3={2^2}^{2}+{3^3}^{3}=7625597485003,$$
 are all primes.
 <p/>
-**Note:** the number of digits for this number is approximately ${{10}^{10}}^{12}$, it is impossible to calculate the number itself, let along do primality test!
+Note: the number of digits for this number is approximately ${{10}^{10}}^{12}$, it is impossible to calculate the number itself, let along do primality test!
 
 
