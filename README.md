@@ -1,5 +1,3 @@
-# Conjectures
-
 ## 1. Prime Tower I (Catalan-Mersenne Prime Conjecture, open)
 Do numbers of the following form 
 $2^{2^{2^{{2}^{2^{2^{{\cdot}^{{\cdot}^{\cdot}}}}-1}-1}-1}-1}-1$
