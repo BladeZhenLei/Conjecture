@@ -1,6 +1,6 @@
 ## 1. Prime Tower I (Catalan-Mersenne Prime Conjecture; open)
 Do numbers of the form 
-$2^{2^{2^{2^{2^{2^{{.}^{{.}^{.}}-1}-1}-1}-1}-1$
+$2^{{.}^{{.}^{.}}-1$
 always return primes? 
 <p/> 
 Since 
