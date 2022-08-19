@@ -6,9 +6,11 @@ $$2^{2^{2^{{2}^{2^{2^{{\cdot}^{{\cdot}^{\cdot}}}}-1}-1}-1}-1}-1$$
 always return primes? 
 <p/> 
 Since 
-$$p_1=2+3=5,$$ 
-$$p_2=2^{2}+3^{3}=31,$$ 
-$$p_3={2^2}^{2}+{3^3}^{3}=7625597485003,$$
+$$p_1=2^2-1=3,$$ 
+$$p_2=2^{2^2-1}-1=7,$$ 
+$$p_3=2^{2^{2^2-1}-1}-1=127,$$
+$$p_3=2^{2^{2^{2^2-1}-1}-1}-1=127,$$
+$$p_3=2^{2^{2^{2^{2^2-1}-1}-1}-1}-1=170141183460469231731687303715884105727,$$
 are all primes.
 <p/>
 (Note: the number of digits for $p_4$ is approximately ${{10}^{10}}^{12}$, it is impossible to calculate the number itself, let along do primality test!)
