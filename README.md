@@ -5,7 +5,7 @@ $p_1=2^2-1=3,$
 $p_2=2^{2^2-1}-1=7,$ 
 $p_3=2^{2^{2^2-1}-1}-1=127,$
 $p_4=2^{2^{2^{2^2-1}-1}-1}-1=170141183460469231731687303715884105727,$
-$p_5=2^{2^{2^{2^{2^2-1}-1}-1}-1}-1=?, ...,$
+$p_5=?, ...,$
 it is conjectured that all elements of such sequence are primes.
 <p/>
 
@@ -14,7 +14,7 @@ A sequence $\lbrace p_1, p_2, p_3, ..., p_n \rbrace$ where
 $p_1=2+3=5,$
 $p_2=2^{2}+3^{3}=31,$
 $p_3={2^2}^{2}+{3^3}^{3}=7625597485003,$
-$p_4=2^{{2^2}^{2}}+3^{{3^3}^{3}}=?,...,$
+$p_4==?,...,$
 it <strong>was</strong> conjectured that all elements of such sequence are primes.
 <p/>
 
