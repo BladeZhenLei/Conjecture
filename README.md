@@ -2,7 +2,7 @@
 
 ## 1. Prime Tower I (Catalan-Mersenne Prime Conjecture, open)
 Do numbers of the following form 
-$$2^{2^{{2}^{2^{2^{{\cdot}^{{\cdot}^{\cdot}}}}-1}-1}-1}-1$$ 
+
 always return primes? 
 <p/> 
 Since 
@@ -16,7 +16,7 @@ are all primes.
 
 ## 2. Prime Tower II (created by me, sovled)
 Do numbers of the following form 
-$$2^{2^{2^{{\cdot}^{{\cdot}^{\cdot}}}}}+3^{3^{3^{{\cdot}^{{\cdot}^{\cdot}}}}}$$ 
+
 always return primes? 
 <p/> 
 Since 
