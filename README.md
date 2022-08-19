@@ -25,7 +25,7 @@ The unique adimissible 2-tuple $(0,2)$ as difference of primes are infinitely ma
 
 
 ### Prime 3-Tuple II(My Conjecture; open)
-The unique admissible 3-tuples $(0,4,10)$ and $(0,10,4)$ as difference of primes are conjectued to be infinitely many (First Hardy-Littlewood Conjecture), in other words, there exist infinitely many consectutive three primes in the pattern of $(p, p+4, p+10)$.
+The unique admissible 3-tuples $(0,4,10)$ and $(0,10,4)$ as difference of primes are conjectued to be infinitely many (First Hardy-Littlewood Conjecture), in other words, there exist infinitely many consectutive <strong>three</strong> primes in the pattern of $(p, p+4, p+10)$.
 <br/>
 However, there has been no observation of such prime gap for the first $10^9$ primes, could this somehow imply (algebraically) a counterexample?
 
