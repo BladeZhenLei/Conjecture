@@ -1,4 +1,4 @@
-## Prime Near Power of Integer
+## Prime as Power of Integers
 ### 1. Prime Tower I (Catalan-Mersenne Prime Conjecture; open)
 A sequence $\lbrace p_1, p_2, p_3, ..., p_n \rbrace$ where
 $p_1=2^2-1=3,$
