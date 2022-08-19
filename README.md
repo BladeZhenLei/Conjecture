@@ -6,9 +6,8 @@ A sequence $\lbrace p_1, p_2, p_3, ..., p_n \rbrace$ where
 $p_1=2^2-1=3,$
 $p_2=2^{2^2-1}-1=7,$ 
 $p_3=2^{2^{2^2-1}-1}-1=127,$
-$p_4=2^{2^{2^{2^2-1}-1}-1}-1=170141183460469231731687303715884105727,$
-$p_5=?\approx{10^10}^{38}$
-It is conjectured that all elements of such sequence are primes.
+$p_4=2^{2^{2^{2^2-1}-1}-1}-1=170141183460469231731687303715884105727,...,$
+it is conjectured that all elements of such sequence are primes.
 <p/>
 
 ### 2. Prime Tower II (My Conjecture; disproved)
