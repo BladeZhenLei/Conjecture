@@ -1,9 +1,9 @@
 # Conjectures
 
-## 1. Prime Tower
-Are all numbers of the form 
+## 1. Prime Tower I
+Do numbers of the following form 
 $$2^{2^{2^{2^{{\cdot}^{{\cdot}^{\cdot}}}}}}...+3^{3^{3^{3^{{\cdot}^{{\cdot}^{\cdot}}}}}}$$ 
-primes? 
+always return primes? 
 <p/> 
 Since 
 $$p_1=2+3=5,$$ 
