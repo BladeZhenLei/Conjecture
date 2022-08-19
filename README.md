@@ -8,15 +8,11 @@ it is conjectured that all elements of such sequence are primes.
 <p/>
 
 ## 2. Prime Tower II (My Conjecture; sovled)
-Do numbers of the form 
-$2^{2^{2^{2^{{.}^{{.}^{.}}}}}}+3^{3^{3^{3^{{\cdot}^{{\cdot}^{\cdot}}}}}}$
-always return primes? 
-<p/> 
-Since 
+We have a sequence $\lbrace p_1, p_2, p_3, ..., p_n \rbrace$ where
 $p_1=2+3=5,$
 $p_2=2^{2}+3^{3}=31,$
 $p_3={2^2}^{2}+{3^3}^{3}=7625597485003,$
-are all primes.
+it is conjectured that all elements of such sequence are primes.
 <p/>
 
 <p/>
