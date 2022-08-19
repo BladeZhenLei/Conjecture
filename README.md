@@ -1,4 +1,4 @@
-## 1. Prime Tower I (Catalan-Mersenne Prime Conjecture, open)
+## 1. Prime Tower I (Catalan-Mersenne Prime Conjecture; open)
 Do numbers of the following form 
 $2^{2^{2^{{2}^{2^{2^{{\cdot}^{{\cdot}^{\cdot}}}}-1}-1}-1}-1}-1$
 always return primes? 
@@ -11,7 +11,7 @@ $p_4=2^{2^{2^{2^2-1}-1}-1}-1=170141183460469231731687303715884105727,$
 are all primes.
 <p/>
 
-## 2. Prime Tower II (created by me, sovled)
+## 2. Prime Tower II (My Conjecture; sovled)
 Do numbers of the following form 
 $2^{2^{2^{2^{{\cdot}^{{\cdot}^{\cdot}}}}}}+3^{3^{3^{3^{{\cdot}^{{\cdot}^{\cdot}}}}}}$
 always return primes? 
