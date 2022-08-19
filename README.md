@@ -19,7 +19,7 @@ $p_4=?$
 It was conjectured that all elements of such sequence are primes.
 <p/>
 
-<strong>Proof:</strong> The original question and answer were posted by me on the Chinese academic forum, the author who solved this problem has spent one month on it and has paid cloud computation to find the smallest factor. 
+<strong>Proof:</strong> The original question was posted by me on a Chinese academic forum, the author who solved this problem has spent one month on it and has paid cloud computation to find the smallest factor. 
 Please see (use translation if necessary)
 <a href="https://www.zhihu.com/question/512482114"> Interesting Prime </a>.
 
