@@ -12,7 +12,6 @@ $$p_3=2^{2^{2^2-1}-1}-1=127,$$
 $$p_4=2^{2^{2^{2^2-1}-1}-1}-1=170141183460469231731687303715884105727,$$
 are all primes.
 <p/>
-(Note: the number of digits for $p_5$ is approximately ${10}^{{10}^{37}}$.)
 
 ## 2. Prime Tower II (created by me, sovled)
 Do numbers of the following form 
@@ -25,7 +24,6 @@ $$p_2=2^{2}+3^{3}=31,$$
 $$p_3={2^2}^{2}+{3^3}^{3}=7625597485003,$$
 are all primes.
 <p/>
-(Note: the number of digits for $p_4$ is approximately ${10}^{{10}^{12}}$.)
 
 <p/>
 <html lang="en">
