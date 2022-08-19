@@ -25,7 +25,7 @@ $$p_2=2^{2}+3^{3}=31,$$
 $$p_3={2^2}^{2}+{3^3}^{3}=7625597485003,$$
 are all primes.
 <p/>
-(Note: the number of digits for $p_4$ is approximately ${{10}^{10}}^{12}$.)
+(Note: the number of digits for $p_4$ is approximately $10^{{10}^{12}}$.)
 
 <p/>
 <html lang="en">
