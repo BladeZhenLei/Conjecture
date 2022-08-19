@@ -16,7 +16,7 @@ are all primes.
 
 ## 2. Prime Tower II (created by me, sovled)
 Do numbers of the following form 
-$$2^{2^{2^{2^{{\cdot}^{{\cdot}^{\cdot}}}}}}...+3^{3^{3^{3^{{\cdot}^{{\cdot}^{\cdot}}}}}}$$ 
+$$2^{2^{2^{2^{{\cdot}^{{\cdot}^{\cdot}}}}}}+3^{3^{3^{3^{{\cdot}^{{\cdot}^{\cdot}}}}}}$$ 
 always return primes? 
 <p/> 
 Since 
