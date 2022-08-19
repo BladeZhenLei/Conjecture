@@ -18,7 +18,7 @@ $p_4=2^{{2^2}^{2}}+3^{{3^3}^{3}}=?,...,$
 it <strong>was</strong> conjectured that all elements of such sequence are primes.
 <p/>
 
-<strong>Proof:</strong> The original question and answer were posted by me on the Chinese academic forum Zhihu, the author who solved the problem has spent one month on it with paid cloud computation to find the smallest factor. 
+<strong>Proof:</strong> The original question and answer were posted by me on the Chinese academic forum Zhihu, the author who solved this problem has spent one month on it with paid cloud computation to find the smallest factor. 
 <p/>
 Please see (use Chinese-English Google Translation if necessary)
 <a href="https://www.zhihu.com/question/512482114"> Interesting Prime </a>
