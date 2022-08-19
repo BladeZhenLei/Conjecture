@@ -8,7 +8,7 @@ $p_5=2^{2^{2^{2^{2^2-1}-1}-1}-1}-1=?, ...,$
 it is conjectured that all elements of such sequence are primes.
 <p/>
 
-## 2. Prime Tower II (My Conjecture; sovled)
+## 2. Prime Tower II (My Conjecture; disproved)
 We have a sequence $\lbrace p_1, p_2, p_3, ..., p_n \rbrace$ where
 $p_1=2+3=5,$
 $p_2=2^{2}+3^{3}=31,$
