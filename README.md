@@ -14,7 +14,7 @@ A sequence $\lbrace p_1, p_2, p_3, ..., p_n \rbrace$ where
 $p_1=2+3=5,$
 $p_2=2^{2}+3^{3}=31,$
 $p_3={2^2}^{2}+{3^3}^{3}=7625597485003,$
-$p_4==?,...,$
+$p_4=?,...,$
 it <strong>was</strong> conjectured that all elements of such sequence are primes.
 <p/>
 
