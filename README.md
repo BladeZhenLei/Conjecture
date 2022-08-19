@@ -32,5 +32,5 @@ are all primes.
 <head>
 <meta http-equiv="content-type" content="text/html; charset=utf-8">
 <script type="text/javascript" charset="utf-8" src="
-https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
 </head>
