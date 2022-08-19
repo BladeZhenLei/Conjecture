@@ -15,8 +15,13 @@ $p_1=2+3=5,$
 $p_2=2^{2}+3^{3}=31,$
 $p_3={2^2}^{2}+{3^3}^{3}=7625597485003,$
 $p_4=2^{{2^2}^{2}}+3^{{3^3}^{3}}=?,...,$
-it is conjectured that all elements of such sequence are primes.
+it <strong>was</strong> conjectured that all elements of such sequence are primes.
 <p/>
+The original question and answer were posted by me on the Chinese academic forum <strong>Zhihu</strong>, the author who solved the problem has spent one month on it with paid cloud computation to find the smallest factor. 
+<p/>
+Please see
+<a href="https://www.zhihu.com/question/512482114"> Interesting Prime </a>
+
 
 ## Admissible k-Tuples
 
