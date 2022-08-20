@@ -27,7 +27,7 @@ Please see (use translation if necessary)
 ### 1. Prime 2-Tuple I (Twin Prime Conjecture; open)
 The unique adimissible 2-tuple $(0,2)$ as difference of primes are infinitely many, in other words, there exist infinitely many consectutive two primes in the pattern $(p, p+2)$. 
 <p/>
-The newest result is from Yitang Zhang (2013) where he showed at least one 2-tuple which matches infinitely many positions; subsequent work showed that some 2-tuple exists with values differing by 246 or less that matches infinitely many positions.
+<strong>Partial Result<strong/> The newest result is from Yitang Zhang (2013) where he showed at least one 2-tuple which matches infinitely many positions; subsequent work showed that some 2-tuple exists with values differing by 246 or less that matches infinitely many positions.
 
 
 ### 2. Prime 3-Tuple II (My Conjecture; open)
