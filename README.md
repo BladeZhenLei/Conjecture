@@ -1,5 +1,6 @@
 -----------
 ## Prime as Power of Integers
+-----------
 
 ### 1. Prime Tower I (Catalan-Mersenne Prime Conjecture; open)
 A sequence $\lbrace p_1, p_2, p_3, ..., p_n \rbrace$ where
