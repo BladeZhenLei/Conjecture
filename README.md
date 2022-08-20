@@ -11,7 +11,7 @@ it is conjectured that all elements of such sequence are primes.
 <p/>
 <strong>Some Thoughts</strong>
 <br/>
-Calculating $p_5$ would already be exceedingly large, it is impossible to do so with conventional computer or algorithm. However, there are some primality tests which does not require calculation of the number itself. Still, it is obviously algebraically hard to prove the statement.
+Calculating $p_5$ would already be exceedingly large, it is impossible to do so with conventional computer or algorithm. However, there are some primality tests which do not require calculation of the number itself. Still, it is extremely hard to prove the statement algebraically.
 <p/>
 
 ### Prime Tower II (My Conjecture; disproved)
