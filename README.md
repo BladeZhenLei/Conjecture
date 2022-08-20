@@ -1,6 +1,6 @@
------------
+---
 ## Prime as Power of Integers
------------
+---
 
 ### 1. Prime Tower I (Catalan-Mersenne Prime Conjecture; open)
 A sequence $\lbrace p_1, p_2, p_3, ..., p_n \rbrace$ where
@@ -23,8 +23,9 @@ it was conjectured that all elements of such sequence are primes.
 Please see (use translation if necessary)
 <a href="https://www.zhihu.com/question/512482114"> Interesting Prime </a>.
 
-
+-----------
 ## Admissible k-Tuples
+-----------
 
 ### 1. Prime 2-Tuple I (Twin Prime Conjecture; open)
 The unique adimissible 2-tuple $(0,2)$ as difference of primes are infinitely many, in other words, there exist infinitely many consectutive two primes in the pattern $(p, p+4, p+10)$.
