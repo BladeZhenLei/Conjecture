@@ -18,7 +18,7 @@ $p_3={2^2}^{2}+{3^3}^{3}=7625597485003,...,$
 it was conjectured that all elements of such sequence are primes.
 <p/>
 
-<strong>Proof:</strong>
+<strong>Proof</strong>
 <br/>
 The original question was posted by me on a Chinese academic forum, the author who solved this problem has spent months on it and has paid cloud computation to find the smallest prime factor. 
 Please see (use translation if necessary)
