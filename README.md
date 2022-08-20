@@ -1,4 +1,4 @@
-  
+***  
 ## Prime as Power of Integers
 
 ### 1. Prime Tower I (Catalan-Mersenne Prime Conjecture; open)
