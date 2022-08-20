@@ -7,8 +7,10 @@ $p_1=2^2-1=3,$
 $p_2=2^{2^2-1}-1=7,$ 
 $p_3=2^{2^{2^2-1}-1}-1=127,$
 $p_4=2^{2^{2^{2^2-1}-1}-1}-1=170141183460469231731687303715884105727,...,$
-it is conjectured that all elements of such sequence are primes. 
+it is conjectured that all elements of such sequence are primes.
+<p/>
 <strong>Some Thoughts</strong>
+<br/>
 Calculating $p_5$ would already be exceedingly large, it is impossible to do so with conventional computer or algorithm. However, there are some primality tests which does not require calculation of the number itself. Still, it is obviously algebraically hard to prove the statement.
 <p/>
 
