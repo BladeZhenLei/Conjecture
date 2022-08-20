@@ -35,7 +35,7 @@ The unique adimissible 2-tuple $(0,2)$ as difference of primes are infinitely ma
 <p/>
 <strong>Partial Result</strong>
 <br/>
-The newest result is from Yitang Zhang (2013) where he showed at least one 2-tuple which matches infinitely many positions; subsequent work showed that some 2-tuple exists with values differing by 246 or less that matches infinitely many positions.
+The closest result is from Yitang Zhang (2013) where he showed at least one 2-tuple which matches infinitely many positions; subsequent work showed that some 2-tuple exists with values differing by 246 or less that matches infinitely many positions.
 
 
 ### Prime 3-Tuple II (My Conjecture; open)
