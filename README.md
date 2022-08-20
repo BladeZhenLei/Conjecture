@@ -28,7 +28,7 @@ The original question was posted by me on a Chinese academic forum, the author w
 Please see (use translation if necessary)
 <a href="https://www.zhihu.com/question/512482114"> Interesting Prime </a>.
 
-## Admissible k-Tuples
+## Admissible K-Tuples
 
 ### Prime 2-Tuple I (Twin Prime Conjecture; open)
 The unique adimissible 2-tuple $(0,2)$ as difference of primes are infinitely many, in other words, there exist infinitely many consectutive two primes in the pattern $(p, p+2)$. 
