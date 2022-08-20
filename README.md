@@ -25,7 +25,7 @@ Please see (use translation if necessary)
 ## Admissible k-Tuples
 
 ### 1. Prime 2-Tuple I (Twin Prime Conjecture; open)
-The unique adimissible 2-tuple $(0,2)$ as difference of primes are infinitely many, in other words, there exist infinitely many consectutive two primes in the pattern $(p, p+4, p+10)$.
+The unique adimissible 2-tuple $(0,2)$ as difference of primes are infinitely many, in other words, there exist infinitely many consectutive two primes in the pattern $(p, p+2)$.
 
 
 ### 2. Prime 3-Tuple II (My Conjecture; open)
