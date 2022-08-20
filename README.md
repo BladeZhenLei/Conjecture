@@ -7,7 +7,7 @@ $p_1=2^2-1=3,$
 $p_2=2^{2^2-1}-1=7,$ 
 $p_3=2^{2^{2^2-1}-1}-1=127,$
 $p_4=2^{2^{2^{2^2-1}-1}-1}-1=170141183460469231731687303715884105727,...,$
-it is conjectured that all elements of such sequence are primes.
+it is conjectured that all elements of such sequence are primes. However, calculating $p_5$ would already be exceedingly large, it is impossible to do so with conventional computers. 
 <p/>
 
 ### 2. Prime Tower II (My Conjecture; disproved)
@@ -18,7 +18,7 @@ $p_3={2^2}^{2}+{3^3}^{3}=7625597485003,...,$
 it was conjectured that all elements of such sequence are primes.
 <p/>
 
-<strong>Proof:</strong> The original question was posted by me on a Chinese academic forum, the author who solved this problem has spent one month on it and has paid cloud computation to find the smallest factor. 
+<strong>Proof:</strong> The original question was posted by me on a Chinese academic forum, the author who solved this problem has spent months on it and has paid cloud computation to find the smallest prime factor. 
 Please see (use translation if necessary)
 <a href="https://www.zhihu.com/question/512482114"> Interesting Prime </a>.
 
