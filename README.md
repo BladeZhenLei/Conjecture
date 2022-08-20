@@ -43,7 +43,7 @@ The unique admissible 3-tuples $(0,4,10)$ and $(0,10,4)$ as difference of primes
 <p/>
 <strong>Some Thoughts</strong>
 <br>
-There has been no observation of such prime gap for the first $10^9$ primes, could this somehow imply (algebraically) a counterexample to the First Hardy-Littlewood Conjecture?
+There has been no observation of such prime gap for the first $10^9$ primes, could this somehow imply a counterexample to the First Hardy-Littlewood Conjecture?
 
 <p/>
 <html lang="en">
