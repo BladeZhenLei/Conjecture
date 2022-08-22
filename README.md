@@ -9,7 +9,7 @@ $p_3=2^{2^{2^2-1}-1}-1=127,$
 $p_4=2^{2^{2^{2^2-1}-1}-1}-1=170141183460469231731687303715884105727,...,$
 it is conjectured that all elements of such sequence are primes.
 <p/>
-<strong>Some Thoughts</strong>
+<strong>Comment</strong>
 <br/>
 Calculating $p_5$ would already be exceedingly large, it is impossible to do so with conventional computer or algorithm. However, there are some primality tests which do not require calculation of the number itself. Still, it is extremely hard to prove the statement algebraically.
 <p/>
@@ -41,7 +41,7 @@ The closest result is from Yitang Zhang (2013) where he showed at least one 2-tu
 ### Prime 3-Tuple II (My Conjecture; open)
 The unique admissible 3-tuples $(0,4,10)$ and $(0,10,4)$ as difference of primes are conjectued to be finitely many, in other words, there exist finitely many consectutive three primes in the pattern $(p, p+4, p+10)$.
 <p/>
-<strong>Some Thoughts</strong>
+<strong>Comment</strong>
 <br>
 There has been no observation of such prime gap for the first $10^9$ primes, could this somehow imply a counterexample to the First Hardy-Littlewood Conjecture?
 
