@@ -39,7 +39,7 @@ The closest result is from Yitang Zhang (2013) where he showed at least one 2-tu
 
 
 ### Prime 3-Tuple II (My Conjecture; open)
-The unique admissible 3-tuples $(0,4,10)$ and $(0,10,4)$ as difference of primes are conjectued to be infinitely many, in other words, there exist infinitely many consectutive three primes in the pattern $(p, p+4, p+10)$.
+The unique admissible 3-tuples $(0,4,10)$ and $(0,10,4)$ as difference of primes are conjectued to be finitely many, in other words, there exist finitely many consectutive three primes in the pattern $(p, p+4, p+10)$.
 <p/>
 <strong>Some Thoughts</strong>
 <br>
