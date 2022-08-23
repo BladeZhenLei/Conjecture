@@ -59,7 +59,7 @@ The original question was posted by me on a Chinese academic forum, the author w
 <br/>
 .
 
-<strong> Unkown-Name Conjecture (open) </strong>
+<strong> Unkown Conjecture (open) </strong>
 <p/>
 All elements of the set of even numbers {2, 4, 6, ..., n} can be expressed as the difference of two primes. 
 <br/>
@@ -69,7 +69,7 @@ All elements of the set of even numbers {2, 4, 6, ..., n} can be expressed as th
   
 <p/>
 
-<strong> Unkown-Name Conjecture (open) </strong>
+<strong> Unkown Conjecture (open) </strong>
 <br/> 
 All elements of the set of even numbers {2, 4, 6, ..., n} can be expressed as the difference of infinitely many two primes.
 <br/>
@@ -79,7 +79,7 @@ All elements of the set of even numbers {2, 4, 6, ..., n} can be expressed as th
 
 <p/>
   
-<strong> Unkown-Name Conjecture (open) </strong>
+<strong> Unkown Conjecture (open) </strong>
 <br/> All elements of the set of even numbers {2, 4, 6, ..., n} can be expressed as two consecutive primes. 
 <br/>
 <strong> Comment </strong>
