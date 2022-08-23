@@ -15,7 +15,8 @@ it is conjectured that all elements of such sequence are primes.
 <br/>
 Calculating $p_5$ would already be exceedingly large, it is impossible to do so with conventional computer or algorithm. However, there are some primality tests which do not require calculation of the number itself. Still, it is extremely hard to prove the statement algebraically.
 <p/>
-<strong>Prime Tower II (My Conjecture; disproved)</strong>
+**Prime Tower II (My Conjecture; disproved)**
+
 A sequence $\lbrace p_1, p_2, p_3, ..., p_n \rbrace$ where
 $p_1=2+3=5,$
 $p_2=2^{2}+3^{3}=31,$
