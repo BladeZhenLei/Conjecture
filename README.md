@@ -1,8 +1,8 @@
 ***
 
 ## Prime Partition
-### Sum of Two Powers
-<strong>Tower I (Catalan-Mersenne Prime Conjecture; open)</strong>
+### Prime Towers
+<strong> Tower I (Catalan-Mersenne Prime Conjecture; open)</strong>
 <br/>
 A sequence $\lbrace p_1, p_2, p_3, ..., p_n \rbrace$ where
 $p_1=2^2-1=3,$
@@ -17,7 +17,7 @@ Calculating $p_5$ would already be exceedingly large, it is impossible to do so 
 
 <p/>
 
-<strong>Tower II (My Conjecture; disproved)</strong>
+<strong> Tower II (My Conjecture; disproved)</strong>
 <br/>
 A sequence $\lbrace p_1, p_2, p_3, ..., p_n \rbrace$ where
 $p_1=2+3=5,$
@@ -30,6 +30,37 @@ it was conjectured that all elements of such sequence are primes.
 The original question was posted by me on a Chinese academic forum, the author who solved this problem has spent months on it and has paid cloud computation to find the smallest prime factor. Please see (use translation if necessary) <a href="https://www.zhihu.com/question/512482114"> Interesting Prime </a>.
 
 ## Prime Gap
+### Difference of Two Primes
+<strong> Set of Even Numbers I (Polignac's Conjecture; open)
+<br/> All elements in the set of even numbers {2, 4, 6, ..., n} can be expressed as infinitely many consecutive primes. 
+<strong> Comment </strong>
+<br/>
+.
+
+<strong> Set of Even Numbers I (Unkown-Name Conjecture; open)
+<p/>
+All elements of the set of even numbers {2, 4, 6, ..., n} can be expressed as the difference of two primes. 
+<strong> Comment </strong>
+<br/>
+.
+  
+<p/>
+
+<strong> Set of Even Numbers II (Unkown-Name Conjecture; open)
+<br/> All elements of the set of even numbers {2, 4, 6, ..., n} can be expressed as the difference of infinitely many two primes. 
+<strong> Comment </strong>
+<br/>
+.
+
+<p/>
+  
+<strong> Set of Even Numbers III (Unkown-Name Conjecture; open)
+<br/> All elements of the set of even numbers {2, 4, 6, ..., n} can be expressed as two consecutive primes. 
+<strong> Comment </strong>
+<br/>
+.
+ 
+  
 ### Admissible K-Tuples
 <strong> 2-Tuple I (Twin Prime Conjecture; open) </strong>
 <br/>
