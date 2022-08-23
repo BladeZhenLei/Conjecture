@@ -1,4 +1,4 @@
----
+***
 ## Prime Partition
 ### Power of Integers
 
