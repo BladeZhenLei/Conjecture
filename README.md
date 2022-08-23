@@ -34,12 +34,19 @@ There exist infinitely many prime pairs such that $p$ is prime and $2p-1$ is als
 <strong> Fermat Number Conjecture (open) </strong>
 <br/>
 There exist infinitely many primes in the form $2^k+1$.
+<br/>
+<strong> Comment </strong>
+<br/>
+.
 <p/>
 
 <strong> Sophie Germain Prime Conjecture (open) </strong>
 <br>
 There exist infinitely many prime pairs such that $p$ is prime and $2p+1$ is also prime.
-
+<br/>
+<strong> Comment </strong>
+<br/>
+.
 
 ## n+k
 <strong> My Conjecture (disproved) </strong>
