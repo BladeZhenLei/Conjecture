@@ -1,7 +1,9 @@
 ---
 ## Prime Partition
 ### Prime as Power of Integers
-#### Prime Tower I (Catalan-Mersenne Prime Conjecture; open)
+
+<strong>Prime Tower I (Catalan-Mersenne Prime Conjecture; open)</strong>
+<br/>
 A sequence $\lbrace p_1, p_2, p_3, ..., p_n \rbrace$ where
 $p_1=2^2-1=3,$
 $p_2=2^{2^2-1}-1=7,$ 
