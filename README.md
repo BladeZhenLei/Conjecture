@@ -17,17 +17,17 @@ Calculating $p_5$ would already be exceedingly large, it is impossible to do so 
 
 <strong> 2p-1 Prime Conjecture (open) </strong>
 <br>
-There exisit infinitely many prime pairs such that $p$ is prime and $2p-1$ is also prime.
+There exist infinitely many prime pairs such that $p$ is prime and $2p-1$ is also prime.
 
 ## n+1
 <strong> Fermat Number Conjecture (open) </strong>
 <br/>
-There exisit infinitely many Fermat Numbers that are primes.
+There exist infinitely many primes in the form $2^n+1$.
 <p/>
 
 <strong> Sophie Germain Prime Conjecture (open) </strong>
 <br>
-There exisit infinitely many pairs of Safe Primes and Sophie Germain Primes such that $p$ is prime and $2p+1$ is also prime.
+There exist infinitely many prime pairs such that $p$ is prime and $2p+1$ is also prime.
 
 
 ## n+k
