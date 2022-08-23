@@ -15,6 +15,7 @@ The unique admissible 3-tuples $(0,4,10)$ and $(0,10,4)$ as difference of primes
 <br>
 There has been no observation of such prime gap for the first $10^9$ primes, could this somehow imply a counterexample to the First Hardy-Littlewood Conjecture?
 
+***
 ## Prime Partition
 #### Prime Tower I (Catalan-Mersenne Prime Conjecture; open)
 A sequence $\lbrace p_1, p_2, p_3, ..., p_n \rbrace$ where
