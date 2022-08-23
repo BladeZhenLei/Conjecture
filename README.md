@@ -1,8 +1,8 @@
 ---
 ## Prime Partition
-### Prime as Power of Integers
+### Power of Integers
 
-<strong>Prime Tower I (Catalan-Mersenne Prime Conjecture; open)</strong>
+<strong>Tower I(Catalan-Mersenne Prime Conjecture; open)</strong>
 <br/>
 A sequence $\lbrace p_1, p_2, p_3, ..., p_n \rbrace$ where
 $p_1=2^2-1=3,$
@@ -17,7 +17,7 @@ Calculating $p_5$ would already be exceedingly large, it is impossible to do so 
 
 <p/>
 
-<strong>Prime Tower II (My Conjecture; disproved)</strong>
+<strong>Tower II(My Conjecture; disproved)</strong>
 <br/>
 A sequence $\lbrace p_1, p_2, p_3, ..., p_n \rbrace$ where
 $p_1=2+3=5,$
@@ -33,15 +33,17 @@ Please see (use translation if necessary)
 
 ## Prime Gap
 ### Admissible K-Tuples
-#### Prime 2-Tuple I (Twin Prime Conjecture; open)
+<strong> 2-Tuple I (Twin Prime Conjecture; open) </strong>
+<br/>
 The unique adimissible 2-tuple $(0,2)$ as difference of primes are infinitely many, in other words, there exist infinitely many consectutive two primes in the pattern $(p, p+2)$. 
-<p/>
+<br/>
 <strong>Partial Result</strong>
 <br/>
 The closest result is from Yitang Zhang (2013) where he showed at least one 2-tuple which matches infinitely many positions; subsequent work showed that some 2-tuple exists with values differing by 246 or less that matches infinitely many positions.
 
+<p/>
 
-#### Prime 3-Tuple II (My Conjecture; open)
+<strong> Prime 3-Tuple II (My Conjecture; open) </strong>
 The unique admissible 3-tuples $(0,4,10)$ and $(0,10,4)$ as difference of primes are conjectued to be finitely many, in other words, there exist finitely many consectutive three primes in the pattern $(p, p+4, p+10)$.
 <p/>
 <strong>Comment</strong>
