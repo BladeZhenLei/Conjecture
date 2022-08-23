@@ -1,6 +1,6 @@
 ***
 ## Prime Partition
-### n-1
+### $n-1$
 <strong> Mersenne Prime Conjecture (open) </strong>
 <br/>
 There exist infinitely many primes in the form $2^k-1$.
@@ -32,7 +32,7 @@ There exist infinitely many prime pairs such that $p$ is prime and $2p-1$ is als
 <br/>
 None.
 
-### n+1
+### $n+1$
 <strong> Fermat Number Conjecture (open) </strong>
 <br/>
 There exist infinitely many primes in the form $2^k+1$.
@@ -50,7 +50,7 @@ There exist infinitely many prime pairs such that $p$ is prime and $2p+1$ is als
 <br/>
 .
 
-### n+k
+### $n+k$
 <strong> My Conjecture (disproved) </strong>
 <br/>
 A sequence $\lbrace p_1, p_2, p_3, ..., p_n \rbrace$ where
