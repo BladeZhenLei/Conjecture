@@ -4,6 +4,7 @@
 <strong> Mersenne Prime Conjecture (open) </strong>
 <br/>
 There exist infinitely many primes in the form $2^k-1$.
+<br/>
 <strong> Comment </strong>
 <br/>
 .
@@ -45,7 +46,7 @@ $p_2=2^{2}+3^{3}=31,$
 $p_3={2^2}^{2}+{3^3}^{3}=7625597485003,...,$
 it was conjectured that all elements of such sequence are primes.
 <br/>
-<strong>Proof</strong>
+<strong> Comment </strong>
 <br/>
 The original question was posted by me on a Chinese academic forum, the author who solved this problem has spent months on it and has paid cloud computation to find the smallest prime factor. Please see (use translation if necessary) <a href="https://www.zhihu.com/question/512482114"> Interesting Prime </a>.
 
@@ -90,7 +91,7 @@ All elements of the set of even numbers {2, 4, 6, ..., n} can be expressed as th
 <br/>
 The unique adimissible 2-tuple $(0,2)$ as difference of primes are infinitely many, in other words, there exist infinitely many consectutive two primes in the pattern $(p, p+2)$. 
 <br/>
-<strong>Partial Result</strong>
+<strong> Comment </strong>
 <br/>
 The closest result is from Yitang Zhang (2013) where he showed at least one 2-tuple which matches infinitely many positions; subsequent work showed that some 2-tuple exists with values differing by 246 or less that matches infinitely many positions.
 
