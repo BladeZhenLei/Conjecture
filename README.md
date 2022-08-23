@@ -67,39 +67,11 @@ The original question was posted by me on a Chinese academic forum, the author w
 ### 2-tuple
 <strong> Polignac's Conjecture (open) </strong>
 <br/>
-All elements in the set of even numbers {2, 4, 6, ..., n} can be expressed as difference of infinitely many consecutive primes. In other words, the 2-tuple $(0,k)$ takes all even numbers for $k$.
-<br/>
+All elements in the set of even numbers {2, 4, 6, ..., n} can be expressed as difference of infinitely many consecutive primes. In other words, there exist infinitely many 2-tuple $(0,k)$ where $k$ takes all even numbers.
 <strong> Comment </strong>
 <br/>
 None.  
 <p/>
-
-<strong> Unknown Conjecture (open) </strong>
-<br/>
-All elements of the set of even numbers {2, 4, 6, ..., n} can be expressed as the difference of two primes. 
-<br/>
-<strong> Comment </strong>
-<br/>
-None.  
-<p/>
-
-<strong> Unknown Conjecture (open) </strong>
-<br/> 
-All elements of the set of even numbers {2, 4, 6, ..., n} can be expressed as the difference of infinitely many two primes.
-<br/>
-<strong> Comment </strong>
-<br/>
-None.
-<p/>
-  
-<strong> Unknown Conjecture (open) </strong>
-<br/> All elements of the set of even numbers {2, 4, 6, ..., n} can be expressed as two consecutive primes. 
-<br/>
-<strong> Comment </strong>
-<br/>
-None.
-<p/>
- 
   
 <strong> Twin Prime Conjecture (open) </strong>
 <br/>
@@ -118,7 +90,6 @@ The unique admissible 3-tuples $(0,4,10)$ and $(0,10,4)$ as difference of primes
 <strong>Comment</strong>
 <br/>
 There has been no observation of such prime gap for the first $10^9$ primes, meaning such rare case may be finite or non-existent. Could this somehow imply a counterexample to the First Hardy-Littlewood Conjecture?
-
 
 
 
