@@ -28,6 +28,7 @@ it was conjectured that all elements of such sequence are primes.
 <strong>Proof</strong>
 <br/>
 The original question was posted by me on a Chinese academic forum, the author who solved this problem has spent months on it and has paid cloud computation to find the smallest prime factor. 
+<br/>
 Please see (use translation if necessary)
 <a href="https://www.zhihu.com/question/512482114"> Interesting Prime </a>.
 
