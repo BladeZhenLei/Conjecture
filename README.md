@@ -31,13 +31,13 @@ The original question was posted by me on a Chinese academic forum, the author w
 
 ## Prime Gap
 ### Difference of Two Primes
-<strong> Set of Even Numbers I (Polignac's Conjecture; open)
+<strong> Set of Even Numbers I (Polignac's Conjecture; open) </strong>
 <br/> All elements in the set of even numbers {2, 4, 6, ..., n} can be expressed as infinitely many consecutive primes. 
 <strong> Comment </strong>
 <br/>
 .
 
-<strong> Set of Even Numbers II (Unkown-Name Conjecture; open)
+<strong> Set of Even Numbers II (Unkown-Name Conjecture; open) </strong>
 <p/>
 All elements of the set of even numbers {2, 4, 6, ..., n} can be expressed as the difference of two primes. 
 <strong> Comment </strong>
@@ -46,7 +46,7 @@ All elements of the set of even numbers {2, 4, 6, ..., n} can be expressed as th
   
 <p/>
 
-<strong> Set of Even Numbers II (Unkown-Name Conjecture; open)
+<strong> Set of Even Numbers II (Unkown-Name Conjecture; open) </strong>
 <br/> All elements of the set of even numbers {2, 4, 6, ..., n} can be expressed as the difference of infinitely many two primes. 
 <strong> Comment </strong>
 <br/>
@@ -54,7 +54,7 @@ All elements of the set of even numbers {2, 4, 6, ..., n} can be expressed as th
 
 <p/>
   
-<strong> Set of Even Numbers III (Unkown-Name Conjecture; open)
+<strong> Set of Even Numbers III (Unkown-Name Conjecture; open) </strong>
 <br/> All elements of the set of even numbers {2, 4, 6, ..., n} can be expressed as two consecutive primes. 
 <strong> Comment </strong>
 <br/>
