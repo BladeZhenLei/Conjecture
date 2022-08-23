@@ -1,6 +1,6 @@
 ***
 ## Prime Partition
-## N-1
+## n-1
 <strong> Catalan-Mersenne Prime Conjecture (open) </strong>
 <br/>
 A sequence $\lbrace p_1, p_2, p_3, ..., p_n \rbrace$ where
@@ -19,7 +19,7 @@ Calculating $p_5$ would already be exceedingly large, it is impossible to do so 
 <br>
 There exisit infinitely many prime pairs such that $p$ is prime and $2p-1$ is also prime.
 
-## N+1
+## n+1
 <strong> Fermat Number Conjecture (open) </strong>
 <br/>
 There exisit infinitely many Fermat Numbers that are primes.
@@ -30,7 +30,7 @@ There exisit infinitely many Fermat Numbers that are primes.
 There exisit infinitely many pairs of Safe Primes and Sophie Germain Primes such that $p$ is prime and $2p+1$ is also prime.
 
 
-## N+K
+## n+k
 <strong> My Conjecture (disproved) </strong>
 <br/>
 A sequence $\lbrace p_1, p_2, p_3, ..., p_n \rbrace$ where
@@ -63,7 +63,9 @@ All elements of the set of even numbers {2, 4, 6, ..., n} can be expressed as th
 <p/>
 
 <strong> Unkown-Name Conjecture (open) </strong>
-<br/> All elements of the set of even numbers {2, 4, 6, ..., n} can be expressed as the difference of infinitely many two primes. 
+<br/> 
+All elements of the set of even numbers {2, 4, 6, ..., n} can be expressed as the difference of infinitely many two primes.
+<br/>
 <strong> Comment </strong>
 <br/>
 .
