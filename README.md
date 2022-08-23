@@ -1,8 +1,7 @@
 ***
-
 ## Prime Partition
-### Prime Towers
-<strong> Tower I (Catalan-Mersenne Prime Conjecture; open)</strong>
+## N-1
+<strong> Catalan-Mersenne Prime Conjecture (open) </strong>
 <br/>
 A sequence $\lbrace p_1, p_2, p_3, ..., p_n \rbrace$ where
 $p_1=2^2-1=3,$
@@ -14,10 +13,21 @@ it is conjectured that all elements of such sequence are primes.
 <strong>Comment</strong>
 <br/>
 Calculating $p_5$ would already be exceedingly large, it is impossible to do so with conventional computer or algorithm. However, there are some primality tests which do not require calculation of the number itself. Still, it is extremely hard to prove the statement algebraically.
-
 <p/>
 
-<strong> Tower II (My Conjecture; disproved)</strong>
+## N+1
+<strong> Fermat Number Conjecture (open) </strong>
+<br/>
+There exisit infinitely many Fermat Numbers that are primes.
+<p/>
+
+<strong> Sophie Germain Prime Conjecture (open) </strong>
+<br>
+There exisit infinitely many pairs of Safe and Sophie Germain Primes.
+
+
+## N+K
+<strong> My Conjecture (disproved) </strong>
 <br/>
 A sequence $\lbrace p_1, p_2, p_3, ..., p_n \rbrace$ where
 $p_1=2+3=5,$
@@ -30,7 +40,7 @@ it was conjectured that all elements of such sequence are primes.
 The original question was posted by me on a Chinese academic forum, the author who solved this problem has spent months on it and has paid cloud computation to find the smallest prime factor. Please see (use translation if necessary) <a href="https://www.zhihu.com/question/512482114"> Interesting Prime </a>.
 
 ## Prime Gap
-### Difference of Two Primes
+### 2-Tuple
 <strong> Set of Even Numbers I (Polignac's Conjecture; open) </strong>
 <br/> All elements in the set of even numbers {2, 4, 6, ..., n} can be expressed as infinitely many consecutive primes. 
 <br/>
@@ -64,8 +74,7 @@ All elements of the set of even numbers {2, 4, 6, ..., n} can be expressed as th
 .
  
   
-### Admissible K-Tuples
-<strong> 2-Tuple I (Twin Prime Conjecture; open) </strong>
+<strong> Twin Prime Conjecture (open) </strong>
 <br/>
 The unique adimissible 2-tuple $(0,2)$ as difference of primes are infinitely many, in other words, there exist infinitely many consectutive two primes in the pattern $(p, p+2)$. 
 <br/>
@@ -75,7 +84,8 @@ The closest result is from Yitang Zhang (2013) where he showed at least one 2-tu
 
 <p/>
 
-<strong> 3-Tuple I (My Conjecture; open) </strong>
+### 3-Tuple
+<strong> My Conjecture (open) </strong>
 <br/>
 The unique admissible 3-tuples $(0,4,10)$ and $(0,10,4)$ as difference of primes are conjectued to be finitely many, in other words, there exist finitely many consectutive three primes in the pattern $(p, p+4, p+10)$.
 <br/>
