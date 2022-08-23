@@ -73,7 +73,7 @@ The original question was posted by me on a Chinese academic forum, the author w
 .
 
 <strong> Unknown Conjecture (open) </strong>
-<p/>
+<br/>
 All elements of the set of even numbers {2, 4, 6, ..., n} can be expressed as the difference of two primes. 
 <br/>
 <strong> Comment </strong>
@@ -98,6 +98,7 @@ All elements of the set of even numbers {2, 4, 6, ..., n} can be expressed as th
 <strong> Comment </strong>
 <br/>
 .
+<p/>
  
   
 <strong> Twin Prime Conjecture (open) </strong>
@@ -107,7 +108,6 @@ The unique adimissible 2-tuple $(0,2)$ as difference of primes are infinitely ma
 <strong> Comment </strong>
 <br/>
 The closest result is from Yitang Zhang (2013) where he showed at least one 2-tuple which matches infinitely many positions; subsequent work showed that some 2-tuple exists with values differing by 246 or less that matches infinitely many positions.
-
 <p/>
 
 ### 3-tuple
