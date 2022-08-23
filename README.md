@@ -44,7 +44,7 @@ it was conjectured that all elements of such sequence are primes.
 The original question was posted by me on a Chinese academic forum, the author who solved this problem has spent months on it and has paid cloud computation to find the smallest prime factor. Please see (use translation if necessary) <a href="https://www.zhihu.com/question/512482114"> Interesting Prime </a>.
 
 ## Prime Gap
-### 2-Tuple
+### 2-tuple
 <strong> Polignac's Conjecture (open) </strong>
 <br/> All elements in the set of even numbers {2, 4, 6, ..., n} can be expressed as infinitely many consecutive primes. 
 <br/>
@@ -90,7 +90,7 @@ The closest result is from Yitang Zhang (2013) where he showed at least one 2-tu
 
 <p/>
 
-### 3-Tuple
+### 3-tuple
 <strong> My Conjecture (open) </strong>
 <br/>
 The unique admissible 3-tuples $(0,4,10)$ and $(0,10,4)$ as difference of primes are conjectued to be finitely many, in other words, there exist finitely many consectutive three primes in the pattern $(p, p+4, p+10)$.
