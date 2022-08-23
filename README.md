@@ -11,6 +11,7 @@ There exist infinitely many primes in the form $2^k-1$.
 <p/>
 
 <strong> Catalan-Mersenne Prime Conjecture </strong>
+<br/>
 A sequence $\lbrace p_1, p_2, p_3, ..., p_n \rbrace$ where
 $p_1=2^2-1=3,$
 $p_2=2^{2^2-1}-1=7,$ 
