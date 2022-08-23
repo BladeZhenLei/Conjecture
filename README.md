@@ -50,19 +50,6 @@ There exist infinitely many prime pairs such that $p$ is prime and $2p+1$ is als
 <br/>
 .
 
-### n+k
-<strong> My Conjecture (disproved) </strong>
-<br/>
-A sequence $\lbrace p_1, p_2, p_3, ..., p_n \rbrace$ where
-$p_1=2+3=5,$
-$p_2=2^{2}+3^{3}=31,$
-$p_3={2^2}^{2}+{3^3}^{3}=7625597485003,...,$
-it was conjectured that all elements of such sequence are primes.
-<br/>
-<strong> Comment </strong>
-<br/>
-The original question was posted by me on a Chinese academic forum, the author who solved this problem has spent months on it and has paid cloud computation to find the smallest prime factor. Please see (use translation if necessary) <a href="https://www.zhihu.com/question/512482114"> Interesting Prime </a>.
-
 ## Prime Gap
 ### 2-tuple
 <strong> Polignac's Conjecture (open) </strong>
