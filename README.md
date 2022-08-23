@@ -15,6 +15,10 @@ it is conjectured that all elements of such sequence are primes.
 Calculating $p_5$ would already be exceedingly large, it is impossible to do so with conventional computer or algorithm. However, there are some primality tests which do not require calculation of the number itself. Still, it is extremely hard to prove the statement algebraically.
 <p/>
 
+<strong> 2p-1 Prime Conjecture (open) </strong>
+<br>
+There exisit infinitely many prime pairs such that $p$ is prime and $2p-1$ is also prime.
+
 ## N+1
 <strong> Fermat Number Conjecture (open) </strong>
 <br/>
@@ -23,7 +27,7 @@ There exisit infinitely many Fermat Numbers that are primes.
 
 <strong> Sophie Germain Prime Conjecture (open) </strong>
 <br>
-There exisit infinitely many pairs of Safe and Sophie Germain Primes.
+There exisit infinitely many pairs of Safe Primes and Sophie Germain Primes such that $p$ is prime and $2p+1$ is also prime.
 
 
 ## N+K
