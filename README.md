@@ -10,7 +10,7 @@ There exist infinitely many primes in the form $2^k-1$.
 None.
 <p/>
 
-<strong> Catalan-Mersenne Prime Conjecture </strong>
+<strong> Catalan-Mersenne Prime Conjecture (open) </strong>
 <br/>
 A sequence $\lbrace p_1, p_2, p_3, ..., p_n \rbrace$ where
 $p_1=2^2-1=3,$
@@ -33,7 +33,7 @@ There exist infinitely many prime pairs such that $p$ is prime and $2p-1$ is als
 None.
 
 ### n+1
-<strong> Fermat Number Conjecture (open) </strong>
+<strong> Fermat Prime Conjecture (open) </strong>
 <br/>
 There exist infinitely many primes in the form $2^k+1$.
 <br/>
@@ -67,7 +67,7 @@ The original question was posted by me on a Chinese academic forum, the author w
 ### 2-tuple
 <strong> Polignac's Conjecture (open) </strong>
 <br/>
-All elements in the set of even numbers {2, 4, 6, ..., n} can be expressed as difference of infinitely many consecutive primes. In other words, the 2-tuple $(0,k)$ takes all even numbers for $k$.  
+All elements in the set of even numbers {2, 4, 6, ..., n} can be expressed as difference of infinitely many consecutive primes. In other words, the 2-tuple $(0,k)$ takes all even numbers for $k$.
 <br/>
 <strong> Comment </strong>
 <br/>
