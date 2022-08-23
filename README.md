@@ -27,10 +27,7 @@ it was conjectured that all elements of such sequence are primes.
 <br/>
 <strong>Proof</strong>
 <br/>
-The original question was posted by me on a Chinese academic forum, the author who solved this problem has spent months on it and has paid cloud computation to find the smallest prime factor. 
-<br/>
-Please see (use translation if necessary)
-<a href="https://www.zhihu.com/question/512482114"> Interesting Prime </a>.
+The original question was posted by me on a Chinese academic forum, the author who solved this problem has spent months on it and has paid cloud computation to find the smallest prime factor. Please see (use translation if necessary) <a href="https://www.zhihu.com/question/512482114"> Interesting Prime </a>.
 
 ## Prime Gap
 ### Admissible K-Tuples
@@ -50,9 +47,7 @@ The unique admissible 3-tuples $(0,4,10)$ and $(0,10,4)$ as difference of primes
 <br/>
 <strong>Comment</strong>
 <br/>
-There has been no observation of such prime gap for the first $10^9$ primes, meaning such rare case may be finite or non-existent. 
-<br/>
-Could this somehow imply a counterexample to the First Hardy-Littlewood Conjecture?
+There has been no observation of such prime gap for the first $10^9$ primes, meaning such rare case may be finite or non-existent. Could this somehow imply a counterexample to the First Hardy-Littlewood Conjecture?
 
 
 
