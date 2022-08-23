@@ -39,7 +39,7 @@ There exist infinitely many primes in the form $2^k+1$.
 <br/>
 <strong> Comment </strong>
 <br/>
-Even more difficult than Mersenne Prime Conjecture, only 5 Fermat primes are found as of now.
+Even more difficult than Mersenne Prime Conjecture, only 5 Fermat primes are found.
 <p/>
 
 <strong> Sophie Germain Prime Conjecture (open) </strong>
