@@ -7,7 +7,7 @@ There exist infinitely many primes in the form $2^k-1$.
 <br/>
 <strong> Comment </strong>
 <br/>
-.
+None.
 <p/>
 
 <strong> Catalan-Mersenne Prime Conjecture </strong>
@@ -30,7 +30,7 @@ There exist infinitely many prime pairs such that $p$ is prime and $2p-1$ is als
 <br/>
 <strong> Comment </strong>
 <br/>
-.
+None.
 
 ## n+1
 <strong> Fermat Number Conjecture (open) </strong>
@@ -39,7 +39,7 @@ There exist infinitely many primes in the form $2^k+1$.
 <br/>
 <strong> Comment </strong>
 <br/>
-.
+None.
 <p/>
 
 <strong> Sophie Germain Prime Conjecture (open) </strong>
@@ -70,7 +70,8 @@ The original question was posted by me on a Chinese academic forum, the author w
 <br/>
 <strong> Comment </strong>
 <br/>
-.
+None.
+<p/>
 
 <strong> Unknown Conjecture (open) </strong>
 <br/>
@@ -78,8 +79,7 @@ All elements of the set of even numbers {2, 4, 6, ..., n} can be expressed as th
 <br/>
 <strong> Comment </strong>
 <br/>
-.
-  
+None.  
 <p/>
 
 <strong> Unknown Conjecture (open) </strong>
@@ -88,8 +88,7 @@ All elements of the set of even numbers {2, 4, 6, ..., n} can be expressed as th
 <br/>
 <strong> Comment </strong>
 <br/>
-.
-
+None.
 <p/>
   
 <strong> Unknown Conjecture (open) </strong>
@@ -97,7 +96,7 @@ All elements of the set of even numbers {2, 4, 6, ..., n} can be expressed as th
 <br/>
 <strong> Comment </strong>
 <br/>
-.
+None.
 <p/>
  
   
