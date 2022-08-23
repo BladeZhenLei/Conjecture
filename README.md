@@ -49,7 +49,7 @@ The closest result is from Yitang Zhang (2013) where he showed at least one 2-tu
 The unique admissible 3-tuples $(0,4,10)$ and $(0,10,4)$ as difference of primes are conjectued to be finitely many, in other words, there exist finitely many consectutive three primes in the pattern $(p, p+4, p+10)$.
 <br/>
 <strong>Comment</strong>
-<br>
+<br/>
 There has been no observation of such prime gap for the first $10^9$ primes, could this somehow imply a counterexample to the First Hardy-Littlewood Conjecture?
 
 
