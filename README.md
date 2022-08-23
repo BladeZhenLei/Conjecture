@@ -1,7 +1,7 @@
 ***
-## Prime Partition
-### Power of Integers
 
+## Prime Partition
+### Sum of Two Powers
 <strong>Tower I (Catalan-Mersenne Prime Conjecture; open)</strong>
 <br/>
 A sequence $\lbrace p_1, p_2, p_3, ..., p_n \rbrace$ where
