@@ -1,20 +1,6 @@
----
-## Prime Gaps
-### Admissible K-Tuples
-### Prime 2-Tuple I (Twin Prime Conjecture; open)
-The unique adimissible $2-tuple$ (0,2) as difference of primes are infinitely many, in other words, there exist infinitely many consectutive two primes in the pattern $(p, p+2)$. 
-<p/>
-<strong>Partial Result</strong>
-<br/>
-The closest result is from Yitang Zhang (2013) where he showed at least one 2-tuple which matches infinitely many positions; subsequent work showed that some 2-tuple exists with values differing by 246 or less that matches infinitely many positions.
-### Prime 3-Tuple II (My Conjecture; open)
-The unique admissible 3-tuples $(0,4,10)$ and $(0,10,4)$ as difference of primes are conjectued to be finitely many, in other words, there exist finitely many consectutive three primes in the pattern $(p, p+4, p+10)$.
-<p/>
-<strong>Comment</strong>
-<br>
-There has been no observation of such prime gap for the first $10^9$ primes, could this somehow imply a counterexample to the First Hardy-Littlewood Conjecture?
+***  
+## Prime as Power of Integers
 
-## Prime Partition
 ### Prime Tower I (Catalan-Mersenne Prime Conjecture; open)
 A sequence $\lbrace p_1, p_2, p_3, ..., p_n \rbrace$ where
 $p_1=2^2-1=3,$
@@ -35,29 +21,29 @@ $p_2=2^{2}+3^{3}=31,$
 $p_3={2^2}^{2}+{3^3}^{3}=7625597485003,...,$
 it was conjectured that all elements of such sequence are primes.
 <p/>
+
 <strong>Proof</strong>
 <br/>
 The original question was posted by me on a Chinese academic forum, the author who solved this problem has spent months on it and has paid cloud computation to find the smallest prime factor. 
 Please see (use translation if necessary)
 <a href="https://www.zhihu.com/question/512482114"> Interesting Prime </a>.
+
+## Admissible K-Tuples
+
+### Prime 2-Tuple I (Twin Prime Conjecture; open)
+The unique adimissible 2-tuple $(0,2)$ as difference of primes are infinitely many, in other words, there exist infinitely many consectutive two primes in the pattern $(p, p+2)$. 
+<p/>
+<strong>Partial Result</strong>
 <br/>
+The closest result is from Yitang Zhang (2013) where he showed at least one 2-tuple which matches infinitely many positions; subsequent work showed that some 2-tuple exists with values differing by 246 or less that matches infinitely many positions.
+
+
+### Prime 3-Tuple II (My Conjecture; open)
+The unique admissible 3-tuples $(0,4,10)$ and $(0,10,4)$ as difference of primes are conjectued to be finitely many, in other words, there exist finitely many consectutive three primes in the pattern $(p, p+4, p+10)$.
+<p/>
 <strong>Comment</strong>
+<br>
 There has been no observation of such prime gap for the first $10^9$ primes, could this somehow imply a counterexample to the First Hardy-Littlewood Conjecture?
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <p/>
 <html lang="en">
@@ -67,3 +53,4 @@ There has been no observation of such prime gap for the first $10^9$ primes, cou
 https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML,
 https://vincenttam.github.io/javascripts/MathJaxLocal.js"></script>
 </head>
+
