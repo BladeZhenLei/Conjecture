@@ -2,7 +2,7 @@
 ## Prime Partition
 ### Power of Integers
 
-<strong>Tower I(Catalan-Mersenne Prime Conjecture; open)</strong>
+<strong>Tower I (Catalan-Mersenne Prime Conjecture; open)</strong>
 <br/>
 A sequence $\lbrace p_1, p_2, p_3, ..., p_n \rbrace$ where
 $p_1=2^2-1=3,$
@@ -17,7 +17,7 @@ Calculating $p_5$ would already be exceedingly large, it is impossible to do so 
 
 <p/>
 
-<strong>Tower II(My Conjecture; disproved)</strong>
+<strong>Tower II (My Conjecture; disproved)</strong>
 <br/>
 A sequence $\lbrace p_1, p_2, p_3, ..., p_n \rbrace$ where
 $p_1=2+3=5,$
@@ -43,12 +43,36 @@ The closest result is from Yitang Zhang (2013) where he showed at least one 2-tu
 
 <p/>
 
-<strong> Prime 3-Tuple II (My Conjecture; open) </strong>
+<strong> 3-Tuple I (My Conjecture; open) </strong>
+<br/>
 The unique admissible 3-tuples $(0,4,10)$ and $(0,10,4)$ as difference of primes are conjectued to be finitely many, in other words, there exist finitely many consectutive three primes in the pattern $(p, p+4, p+10)$.
-<p/>
+<br/>
 <strong>Comment</strong>
 <br>
 There has been no observation of such prime gap for the first $10^9$ primes, could this somehow imply a counterexample to the First Hardy-Littlewood Conjecture?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <p/>
 <html lang="en">
