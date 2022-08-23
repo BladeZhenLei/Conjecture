@@ -1,8 +1,14 @@
 ***
 ## Prime Partition
 ## n-1
-<strong> Catalan-Mersenne Prime Conjecture (open) </strong>
+<strong> Mersenne Prime Conjecture (open) </strong>
 <br/>
+There exist infinitely many primes in the form $2^k-1$.
+<strong> Comment </strong>
+<br/>
+.
+<p/>
+
 A sequence $\lbrace p_1, p_2, p_3, ..., p_n \rbrace$ where
 $p_1=2^2-1=3,$
 $p_2=2^{2^2-1}-1=7,$ 
@@ -22,7 +28,7 @@ There exist infinitely many prime pairs such that $p$ is prime and $2p-1$ is als
 ## n+1
 <strong> Fermat Number Conjecture (open) </strong>
 <br/>
-There exist infinitely many primes in the form $2^n+1$.
+There exist infinitely many primes in the form $2^k+1$.
 <p/>
 
 <strong> Sophie Germain Prime Conjecture (open) </strong>
