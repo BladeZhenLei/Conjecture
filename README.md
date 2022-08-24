@@ -1,7 +1,7 @@
 ***
 ## Prime Partition
 ### n-1
-<strong> Mersenne Prime Conjecture (open) </strong>
+<strong> 1. Mersenne Prime Conjecture (open) </strong>
 <br/>
 There exist infinitely many primes in the form $2^k-1$.
 <br/>
@@ -10,7 +10,7 @@ There exist infinitely many primes in the form $2^k-1$.
 Extremely difficult, there are only 51 Mersenne primes found so far.
 <p/>
 
-<strong> Catalan-Mersenne Prime Conjecture (open) </strong>
+<strong> 2. Catalan-Mersenne Prime Conjecture (open) </strong>
 <br/>
 A sequence $\lbrace p_1, p_2, p_3, ..., p_n \rbrace$ where
 $p_1=2^2-1=3,$
@@ -21,16 +21,15 @@ it is conjectured that all elements of such sequence are primes.
 <br/>
 <strong> Comment </strong>
 <br/>
-Calculating $p_5$ would already be exceedingly large, it is impossible to do so with conventional computer or algorithm. However, there are some primality tests which do not require calculation of the number itself. Still, it is extremely hard to prove the statement algebraically.
-<p/>
+This is a special case of the Mersenne Prime Conjecture, calculating $p_5$ would already be exceedingly large.
 
-<strong> 2p-1 Conjecture (open) </strong>
+<strong> 3. 2p-1 Conjecture (open) </strong>
 <br>
 There exist infinitely many prime pairs such that $p$ is prime and $2p-1$ is also prime.
 <br/>
 <strong> Comment </strong>
 <br/>
-None.
+This is one form of the Cunningham Chain, it has to do with a particular type of $6k+1$ prime density.
 
 ### n+1
 <strong> Fermat Prime Conjecture (open) </strong>
