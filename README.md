@@ -32,7 +32,7 @@ There exist infinitely many prime pairs such that $p$ is prime and $2p-1$ is als
 This is one form of the Cunningham Chain. It has to do with a particular type of $6k+1$ prime density.
 
 ### n+1
-<strong> Fermat Prime Conjecture </strong>
+<strong> 4. Fermat Prime Conjecture </strong>
 <br/>
 There exist infinitely many primes in the form $2^k+1$.
 <br/>
@@ -41,7 +41,7 @@ There exist infinitely many primes in the form $2^k+1$.
 More difficult than the Mersenne Prime Conjecture. There are only 5 Fermat primes found.
 <p/>
 
-<strong> Sophie Germain Prime Conjecture </strong>
+<strong> 5. Sophie Germain Prime Conjecture </strong>
 <br>
 There exist infinitely many prime pairs such that $p$ is prime and $2p+1$ is also prime.
 <br/>
@@ -51,7 +51,7 @@ Another form of the Cunningham Chain. It has to do with a particular type of $6k
 
 ## Prime Gap
 ### 2-tuple
-<strong> Polignac's Conjecture </strong>
+<strong> 6. Polignac's Conjecture </strong>
 <br/>
 All elements in the set of even numbers {2, 4, 6, ..., n} can be expressed as difference of infinitely many consecutive primes. In other words, there exist infinitely many 2-tuple $(0,k)$ where $k$ takes all even numbers.
 <br/>
@@ -60,7 +60,7 @@ All elements in the set of even numbers {2, 4, 6, ..., n} can be expressed as di
 None.  
 <p/>
   
-<strong> Twin Prime Conjecture </strong>
+<strong> 7. Twin Prime Conjecture </strong>
 <br/>
 The unique adimissible 2-tuple $(0,2)$ as difference of primes are infinitely many, in other words, there exist infinitely many consectutive two primes in the pattern $(p, p+2)$. 
 <br/>
@@ -69,14 +69,24 @@ The unique adimissible 2-tuple $(0,2)$ as difference of primes are infinitely ma
 This is a special case of the Polignac's Conjecture. The closest result is from Yitang Zhang (2013) where he showed at least one 2-tuple which matches infinitely many positions; subsequent work showed that some 2-tuple exists with values differing by 246 or less that matches infinitely many positions.
 
 ### 3-tuple
-<strong> My Conjecture </strong>
+<strong> 8. My Conjecture </strong>
 <br/>
 The unique admissible 3-tuples $(0,4,10)$ and $(0,10,4)$ as difference of primes are conjectued to be finitely many, in other words, there exist finitely many consectutive three primes in the pattern $(p, p+4, p+10)$.
 <br/>
 <strong>Comment</strong>
 <br/>
 There has been no observation of such prime gap for the first $10^9$ primes, meaning such rare case may be finite or non-existent. Could this somehow imply a counterexample to the First Hardy-Littlewood Conjecture?
+<p/>
 
+## Integer Partition
+<strong> 9. Goldbach Conjecture </strong>
+<br/>
+Every prime $\geq{6}$ can be written as the sum of two even numbers.
+<br/>
+<strong>Comment</strong>
+<br/>
+This concerns the 2-partition of integers. Might be related to the general n-partition probability ditribution?   
+<p/>
 
 
 <p/>
