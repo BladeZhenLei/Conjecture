@@ -85,7 +85,7 @@ Every prime $\geq{6}$ can be written as the sum of two even numbers.
 <br/>
 <strong>Comment</strong>
 <br/>
-This concerns the 2-partition of integers. Might be related to the general n-partition probability ditribution?   
+This concerns the 2-partition of integers. Might be related to the n-partition (Gumbel) distribution)?   
 <p/>
 
 
