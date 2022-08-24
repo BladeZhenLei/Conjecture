@@ -1,7 +1,7 @@
 ***
 ## Prime Partition
 ### n-1
-<strong> 1. Mersenne Prime Conjecture (open) </strong>
+<strong> 1. Mersenne Prime Conjecture </strong>
 <br/>
 There exist infinitely many primes in the form $2^k-1$.
 <br/>
@@ -10,7 +10,7 @@ There exist infinitely many primes in the form $2^k-1$.
 Extremely difficult to prove, by far there are only 51 Mersenne primes found.
 <p/>
 
-<strong> 2. Catalan-Mersenne Prime Conjecture (open) </strong>
+<strong> 2. Catalan-Mersenne Prime Conjecture </strong>
 <br/>
 A sequence $\lbrace p_1, p_2, p_3, ..., p_n \rbrace$ where
 $p_1=2^2-1=3,$
@@ -23,7 +23,7 @@ it is conjectured that all elements of such sequence are primes.
 <br/>
 This is a special case of the Mersenne Prime Conjecture. Calculating $p_5$ would already be exceedingly large.
 
-<strong> 3. 2p-1 Conjecture (open) </strong>
+<strong> 3. 2p-1 Conjecture </strong>
 <br>
 There exist infinitely many prime pairs such that $p$ is prime and $2p-1$ is also prime.
 <br/>
@@ -32,7 +32,7 @@ There exist infinitely many prime pairs such that $p$ is prime and $2p-1$ is als
 This is one form of the Cunningham Chain. It has to do with a particular type of $6k+1$ prime density.
 
 ### n+1
-<strong> Fermat Prime Conjecture (open) </strong>
+<strong> Fermat Prime Conjecture </strong>
 <br/>
 There exist infinitely many primes in the form $2^k+1$.
 <br/>
@@ -41,7 +41,7 @@ There exist infinitely many primes in the form $2^k+1$.
 More difficult than the Mersenne Prime Conjecture. There are only 5 Fermat primes found.
 <p/>
 
-<strong> Sophie Germain Prime Conjecture (open) </strong>
+<strong> Sophie Germain Prime Conjecture </strong>
 <br>
 There exist infinitely many prime pairs such that $p$ is prime and $2p+1$ is also prime.
 <br/>
@@ -51,7 +51,7 @@ Another form of the Cunningham Chain. It has to do with a particular type of $6k
 
 ## Prime Gap
 ### 2-tuple
-<strong> Polignac's Conjecture (open) </strong>
+<strong> Polignac's Conjecture </strong>
 <br/>
 All elements in the set of even numbers {2, 4, 6, ..., n} can be expressed as difference of infinitely many consecutive primes. In other words, there exist infinitely many 2-tuple $(0,k)$ where $k$ takes all even numbers.
 <br/>
@@ -60,7 +60,7 @@ All elements in the set of even numbers {2, 4, 6, ..., n} can be expressed as di
 None.  
 <p/>
   
-<strong> Twin Prime Conjecture (open) </strong>
+<strong> Twin Prime Conjecture </strong>
 <br/>
 The unique adimissible 2-tuple $(0,2)$ as difference of primes are infinitely many, in other words, there exist infinitely many consectutive two primes in the pattern $(p, p+2)$. 
 <br/>
@@ -69,7 +69,7 @@ The unique adimissible 2-tuple $(0,2)$ as difference of primes are infinitely ma
 This is a special case of the Polignac's Conjecture. The closest result is from Yitang Zhang (2013) where he showed at least one 2-tuple which matches infinitely many positions; subsequent work showed that some 2-tuple exists with values differing by 246 or less that matches infinitely many positions.
 
 ### 3-tuple
-<strong> My Conjecture (open) </strong>
+<strong> My Conjecture </strong>
 <br/>
 The unique admissible 3-tuples $(0,4,10)$ and $(0,10,4)$ as difference of primes are conjectued to be finitely many, in other words, there exist finitely many consectutive three primes in the pattern $(p, p+4, p+10)$.
 <br/>
