@@ -1,6 +1,6 @@
 ***
 ## Prime Partition
-### n-1
+### p=n-1
 <strong> 1. Mersenne Prime Conjecture </strong>
 <br/>
 There exist infinitely many primes in the form $2^k-1$.
@@ -31,7 +31,7 @@ There exist infinitely many prime pairs such that $p$ is prime and $2p-1$ is als
 <br/>
 This is one form of the Cunningham Chain. It has to do with a particular type of $6k+1$ prime density.
 
-### n+1
+### p=n+1
 <strong> 4. Fermat Prime Conjecture </strong>
 <br/>
 There exist infinitely many primes in the form $2^k+1$.
@@ -79,13 +79,14 @@ There has been no observation of such prime gap for the first $10^9$ primes, mea
 <p/>
 
 ## Integer Partition
+### 2-partition
 <strong> 9. Goldbach Conjecture </strong>
 <br/>
 Every prime $\geq{6}$ can be written as the sum of two even numbers.
 <br/>
 <strong>Comment</strong>
 <br/>
-This concerns the 2-partition of integers. Might be related to the n-partition (Gumbel) distribution)?   
+This concerns the 2-partition of integers. Might be related to the n-partition (Gumbel) distribution?   
 <p/>
 
 
