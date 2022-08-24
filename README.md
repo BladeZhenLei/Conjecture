@@ -7,7 +7,7 @@ There exist infinitely many primes in the form $2^k-1$.
 <br/>
 <strong> Comment </strong>
 <br/>
-Extremely difficult, there are only 51 Mersenne primes found so far.
+Extremely difficult to prove, by far there are only 51 Mersenne primes found.
 <p/>
 
 <strong> 2. Catalan-Mersenne Prime Conjecture (open) </strong>
@@ -21,7 +21,7 @@ it is conjectured that all elements of such sequence are primes.
 <br/>
 <strong> Comment </strong>
 <br/>
-This is a special case of the Mersenne Prime Conjecture, calculating $p_5$ would already be exceedingly large.
+This is a special case of the Mersenne Prime Conjecture. Calculating $p_5$ would already be exceedingly large.
 
 <strong> 3. 2p-1 Conjecture (open) </strong>
 <br>
@@ -29,7 +29,7 @@ There exist infinitely many prime pairs such that $p$ is prime and $2p-1$ is als
 <br/>
 <strong> Comment </strong>
 <br/>
-This is one form of the Cunningham Chain, it has to do with a particular type of $6k+1$ prime density.
+This is one form of the Cunningham Chain. It has to do with a particular type of $6k+1$ prime density.
 
 ### n+1
 <strong> Fermat Prime Conjecture (open) </strong>
@@ -38,7 +38,7 @@ There exist infinitely many primes in the form $2^k+1$.
 <br/>
 <strong> Comment </strong>
 <br/>
-Even more difficult than Mersenne Prime Conjecture, only 5 Fermat primes are found.
+More difficult than the Mersenne Prime Conjecture. There are only 5 Fermat primes found.
 <p/>
 
 <strong> Sophie Germain Prime Conjecture (open) </strong>
@@ -47,7 +47,7 @@ There exist infinitely many prime pairs such that $p$ is prime and $2p+1$ is als
 <br/>
 <strong> Comment </strong>
 <br/>
-None.
+Another form of the Cunningham Chain. It has to do with a particular type of $6k-1$ prime density.
 
 ## Prime Gap
 ### 2-tuple
