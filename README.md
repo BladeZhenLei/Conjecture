@@ -1,6 +1,6 @@
 ***
 ## Prime Partition
-### p=n-1
+### Prime as n-1
 <strong> 1. Mersenne Prime Conjecture </strong>
 <br/>
 There exist infinitely many primes in the form $2^k-1$.
@@ -31,7 +31,7 @@ There exist infinitely many prime pairs such that $p$ is prime and $2p-1$ is als
 <br/>
 This is one form of the Cunningham Chain. It has to do with a particular type of $6k+1$ prime density.
 
-### p=n+1
+### Prime as n+1
 <strong> 4. Fermat Prime Conjecture </strong>
 <br/>
 There exist infinitely many primes in the form $2^k+1$.
