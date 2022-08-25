@@ -53,7 +53,7 @@ Another form of the Cunningham Chain. It has to do with a particular type of $6k
 ### 2-tuple
 <strong> 6. Polignac's Conjecture </strong>
 <br/>
-All elements in the set of even numbers {2, 4, 6, ..., n} can be expressed as difference of infinitely many consecutive primes. In other words, there exist infinitely many 2-tuple $(0,k)$ where $k$ takes all even numbers.
+All elements in the set of even numbers {2, 4, 6, ...} can be expressed as difference of infinitely many consecutive primes. In other words, there exist infinitely many 2-tuple $(0,k)$ where $k$ takes all even numbers.
 <br/>
 <strong> Comment </strong>
 <br/>
