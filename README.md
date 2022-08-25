@@ -77,7 +77,10 @@ Every even number $\geq{6}$ can be written as the sum of two prime numbers.
 <br/>
 <strong>Comment</strong>
 <br/>
-This concerns the 2-partition of integers. Might be related to the n-partition (Gumbel) distribution?   
+The closest result is from Jingrun Chen (1973), he proved that every sufficiently large even number can be written as the sum of either two primes, or a prime and a semiprime (the product of two primes).
+This concerns the 2-partition of integers. Might be related to the n-partition (Gumbel) distribution?
+
+
 <p/>
 
 
