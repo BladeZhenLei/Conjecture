@@ -73,7 +73,7 @@ This is a special case of the Polignac's Conjecture. The closest result is from 
 ### 2-partition
 <strong> 9. Goldbach Conjecture </strong>
 <br/>
-Every prime $\geq{6}$ can be written as the sum of two even numbers.
+Every even number $\geq{6}$ can be written as the sum of two prime numbers.
 <br/>
 <strong>Comment</strong>
 <br/>
