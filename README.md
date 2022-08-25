@@ -13,15 +13,15 @@ Extremely difficult to prove, by far there are only 51 Mersenne primes found.
 <strong> 2. Catalan-Mersenne Prime Conjecture </strong>
 <br/>
 A sequence $\lbrace p_1, p_2, p_3, ..., p_n \rbrace$ where
-$p_1=2^2-1=3,$
-$p_2=2^{2^2-1}-1=7,$ 
-$p_3=2^{2^{2^2-1}-1}-1=127,$
-$p_4=2^{2^{2^{2^2-1}-1}-1}-1=170141183460469231731687303715884105727,...,$
+$p_1=2^2-1,$
+$p_2=2^{2^2-1}-1,$ 
+$p_3=2^{2^{2^2-1}-1}-1,$
+$p_4=2^{2^{2^{2^2-1}-1}-1}-1,...,$
 it is conjectured that all elements of such sequence are primes.
 <br/>
 <strong> Comment </strong>
 <br/>
-This is a special case of the Mersenne Prime Conjecture. Calculating $p_5$ would already be exceedingly large.
+This is a special case of the Mersenne Prime Conjecture. It holds for $p_1$ to $p_4$, but calculating $p_5$ would already be exceedingly large, let alone proving it.
 
 <strong> 3. 2p-1 Conjecture </strong>
 <br>
