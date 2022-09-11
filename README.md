@@ -22,7 +22,7 @@ This is a special case of the Mersenne Prime Conjecture. It holds for $p_1$ to $
 
 ###  3. 2p-1 Conjecture
 There exist infinitely many prime pairs such that $p$ is prime and $2p-1$ is also prime.
-<br/>
+<p/>
 <strong> Comment </strong>
 <br/>
 This is one form of the Cunningham Chain. It has to do with a particular type of $6k+1$ prime density.
@@ -30,7 +30,7 @@ This is one form of the Cunningham Chain. It has to do with a particular type of
 ## Prime as n+1
 ### 4. Fermat Prime Conjecture
 There exist infinitely many primes in the form $2^k+1$.
-<br/>
+<p/>
 <strong> Comment </strong>
 <br/>
 More difficult than the Mersenne Prime Conjecture. There are only 5 Fermat primes found.
@@ -38,7 +38,7 @@ More difficult than the Mersenne Prime Conjecture. There are only 5 Fermat prime
 
 ### 5. Sophie Germain Prime Conjecture
 There exist infinitely many prime pairs such that $p$ is prime and $2p+1$ is also prime.
-<br/>
+<p/>
 <strong> Comment </strong>
 <br/>
 Another form of the Cunningham Chain. It has to do with a particular type of $6k-1$ prime density.
@@ -47,7 +47,7 @@ Another form of the Cunningham Chain. It has to do with a particular type of $6k
 ## 2-tuple
 ### 6. Polignac's Conjecture
 All elements in the set of even numbers {2, 4, 6, ...} can be expressed as difference of infinitely many consecutive primes. In other words, there exist infinitely many 2-tuple $(0,k)$ where $k$ takes all even numbers.
-<br/>
+<p/>
 <strong> Comment </strong>
 <br/>
 None.  
@@ -55,7 +55,7 @@ None.
   
 ### 7. (sub-problem) Twin Prime Conjecture
 The unique adimissible 2-tuple $(0,2)$ as difference of primes are infinitely many, in other words, there exist infinitely many consectutive two primes in the pattern $(p, p+2)$. 
-<br/>
+<p/>
 <strong> Comment </strong>
 <br/>
 The closest result is from Yitang Zhang (2013) where he showed at least one 2-tuple which matches infinitely many positions; subsequent work showed that some 2-tuple exists with values differing by 246 or less that matches infinitely many positions.
@@ -65,7 +65,7 @@ The closest result is from Yitang Zhang (2013) where he showed at least one 2-tu
 ## 2-partition
 ### 9. Goldbach Conjecture
 Every even number $\geq{6}$ can be written as the sum of two prime numbers.
-<br/>
+<p/>
 <strong>Comment</strong>
 <br/>
 Nevertheless, the closest result is from Jingrun Chen (1973), he proved that every sufficiently large even number can be written as the sum of either two primes, or a prime and a semiprime (the product of two primes).
