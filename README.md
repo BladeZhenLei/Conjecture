@@ -8,7 +8,7 @@ There exist infinitely many primes in the form $2^k-1$.
 <br/>
 Extremely difficult to prove, by far there are only 51 Mersenne primes found.
 
-### 2. (Sub-Problem) Catalan-Mersenne Prime Conjecture
+### 2. (sub-roblem) Catalan-Mersenne Prime Conjecture
 A sequence $\lbrace p_1, p_2, p_3, ..., p_n \rbrace$ where
 $p_1=2^2-1,$
 $p_2=2^{2^2-1}-1,$ 
