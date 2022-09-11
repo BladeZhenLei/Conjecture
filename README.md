@@ -2,16 +2,13 @@
 # Prime Partition
 ## Prime as n-1
 ### 1. Mersenne Prime Conjecture
-<br/>
 There exist infinitely many primes in the form $2^k-1$.
 <br/>
 <strong> Comment </strong>
 <br/>
 Extremely difficult to prove, by far there are only 51 Mersenne primes found.
-<p/>
 
 #### (Sub-Problem) Catalan-Mersenne Prime Conjecture
-<br/>
 A sequence $\lbrace p_1, p_2, p_3, ..., p_n \rbrace$ where
 $p_1=2^2-1,$
 $p_2=2^{2^2-1}-1,$ 
