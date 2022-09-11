@@ -3,7 +3,7 @@
 ## Prime as n-1
 ### 1. Mersenne Prime Conjecture
 There exist infinitely many primes in the form $2^k-1$.
-<br/>
+<p/>
 <strong> Comment </strong>
 <br/>
 Extremely difficult to prove, by far there are only 51 Mersenne primes found.
@@ -15,7 +15,7 @@ $p_2=2^{2^2-1}-1,$
 $p_3=2^{2^{2^2-1}-1}-1,$
 $p_4=2^{2^{2^{2^2-1}-1}-1}-1,...,$
 it is conjectured that all elements of such sequence are primes.
-<br/>
+<p/>
 <strong> Comment </strong>
 <br/>
 This is a special case of the Mersenne Prime Conjecture. It holds for $p_1$ to $p_4$, but calculating $p_5$ would already be exceedingly large, let alone proving it.
