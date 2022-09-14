@@ -1,5 +1,4 @@
 ***
-# Prime Partition
 ## Prime as n-1
 ### 1. Mersenne Prime Conjecture
 There exist infinitely many primes in the form $2^k-1$.
