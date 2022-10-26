@@ -7,7 +7,7 @@ There exist infinitely many primes in the form $2^k-1$.
 <br/>
 Extremely difficult to prove, by far there are only 51 Mersenne primes found.
 
-### 2. (sub-problem) Catalan-Mersenne Prime Conjecture
+### 2. Catalan-Mersenne Prime Conjecture (sub-problem of 1)
 The sequence $\lbrace p_1, p_2, p_3, ..., p_n \rbrace$ where
 $p_1=2^2-1,$
 $p_2=2^{2^2-1}-1,$ 
@@ -29,7 +29,7 @@ This is one form of the Cunningham Chain. It has to do with a particular type of
 ## Prime as n+1
 ### 1. Fermat Prime Conjecture
 There exist infinitely many primes in the form $2^k+1$.
-<br/>
+<p/>
 <strong> Comment </strong>
 <br/>
 More difficult than the Mersenne Prime Conjecture. There are only 5 Fermat primes found.
@@ -37,7 +37,7 @@ More difficult than the Mersenne Prime Conjecture. There are only 5 Fermat prime
 
 ### 2. Sophie Germain Prime Conjecture
 There exist infinitely many prime pairs such that $p$ is prime and $2p+1$ is also prime.
-<br/>
+<p/>
 <strong> Comment </strong>
 <br/>
 Another form of the Cunningham Chain. It has to do with a particular type of $6k-1$ prime density.
