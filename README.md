@@ -27,17 +27,17 @@ There exist infinitely many prime pairs such that $p$ is prime and $2p-1$ is als
 This is one form of the Cunningham Chain. It has to do with a particular type of $6k+1$ prime density.
 
 ## Prime as n+1
-### 4. Fermat Prime Conjecture
+### 1. Fermat Prime Conjecture
 There exist infinitely many primes in the form $2^k+1$.
-<p/>
+<br/>
 <strong> Comment </strong>
 <br/>
 More difficult than the Mersenne Prime Conjecture. There are only 5 Fermat primes found.
 <p/>
 
-### 5. Sophie Germain Prime Conjecture
+### 2. Sophie Germain Prime Conjecture
 There exist infinitely many prime pairs such that $p$ is prime and $2p+1$ is also prime.
-<p/>
+<br/>
 <strong> Comment </strong>
 <br/>
 Another form of the Cunningham Chain. It has to do with a particular type of $6k-1$ prime density.
